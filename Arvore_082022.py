@@ -75,4 +75,6 @@ class NodoArvore:
             return busca(raiz.direita, chave)
 
         #A chave procurada é menor que a da raiz
-        return busca(raiz.esquerda, chave) #retorna busca                                   
+        return busca(raiz.esquerda, chave) #retorna busca
+        #alteração Tayro
+        print("Deu bom")
