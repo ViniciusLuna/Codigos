@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/vsluna/OneDrive - rd.com.br/Área de Trabalho/Metodista/2 Semestre_2022/14395 - ESTRUTURA DE DADOS NÃO LINEARES/Codigos",
+      "program": "c:/Users/vsluna/OneDrive - rd.com.br/Área de Trabalho/Metodista/2 Semestre_2022/14395 - ESTRUTURA DE DADOS NÃO LINEARES/Codigos/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

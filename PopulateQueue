@@ -1,0 +1,7 @@
+from pickle import TRUE
+vLuna = Vinicius
+dataSet = dTabela
+
+def pip (dTabela):
+    if ()
+return True
